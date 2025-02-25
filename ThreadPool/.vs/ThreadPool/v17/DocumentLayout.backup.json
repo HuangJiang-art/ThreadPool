@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\VSfile\\ThreadPool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3A70BD-F4EB-42FA-9CAA-B1FAC123C2B8}|ThreadPool\\ThreadPool.vcxproj|E:\\VSfile\\ThreadPool\\ThreadPool\\threadpool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F3A70BD-F4EB-42FA-9CAA-B1FAC123C2B8}|ThreadPool\\ThreadPool.vcxproj|solutionrelative:ThreadPool\\threadpool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3A70BD-F4EB-42FA-9CAA-B1FAC123C2B8}|ThreadPool\\ThreadPool.vcxproj|E:\\VSfile\\ThreadPool\\ThreadPool\\threadpool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F3A70BD-F4EB-42FA-9CAA-B1FAC123C2B8}|ThreadPool\\ThreadPool.vcxproj|solutionrelative:ThreadPool\\threadpool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F3A70BD-F4EB-42FA-9CAA-B1FAC123C2B8}|ThreadPool\\ThreadPool.vcxproj|E:\\VSfile\\ThreadPool\\ThreadPool\\\u7EBF\u7A0B\u6C60\u9879\u76EE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F3A70BD-F4EB-42FA-9CAA-B1FAC123C2B8}|ThreadPool\\ThreadPool.vcxproj|solutionrelative:ThreadPool\\\u7EBF\u7A0B\u6C60\u9879\u76EE.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1708CA86-EC12-4F70-9023-18107E7EA4D5}|ThreadPool_final\\ThreadPool_final.vcxproj|E:\\VSfile\\ThreadPool\\ThreadPool_final\\\u7EBF\u7A0B\u6C60-\u6700\u7EC8\u7248.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1708CA86-EC12-4F70-9023-18107E7EA4D5}|ThreadPool_final\\ThreadPool_final.vcxproj|solutionrelative:ThreadPool_final\\\u7EBF\u7A0B\u6C60-\u6700\u7EC8\u7248.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1708CA86-EC12-4F70-9023-18107E7EA4D5}|ThreadPool_final\\ThreadPool_final.vcxproj|E:\\VSfile\\ThreadPool\\ThreadPool_final\\threadpool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1708CA86-EC12-4F70-9023-18107E7EA4D5}|ThreadPool_final\\ThreadPool_final.vcxproj|solutionrelative:ThreadPool_final\\threadpool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u8D44\u6599\\\u65BD\u78CA\\\u65BD\u78CAc\u002B\u002B\\\u3010\u9AD8\u7EA7\u3011\u624B\u5199\u7EBF\u7A0B\u6C60\u9879\u76EE-\u7ECF\u5178\u6B7B\u9501\u95EE\u9898\u5206\u6790-\u7B80\u5386\u9879\u76EE\u8F93\u51FA\u6307\u5BFC\\\u7EBF\u7A0B\u6C60\u9879\u76EE\u8D44\u6599\\\u7EBF\u7A0B\u6C60\u9879\u76EE\u4EE3\u7801\\\u7EBF\u7A0B\u6C60\u9879\u76EE\\\u7EBF\u7A0B\u6C60\u9879\u76EE-\u6700\u7EC8\u7248\\threadpool.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "threadpool.h",
+              "DocumentMoniker": "E:\\VSfile\\ThreadPool\\ThreadPool\\threadpool.h",
+              "RelativeDocumentMoniker": "ThreadPool\\threadpool.h",
+              "ToolTip": "E:\\VSfile\\ThreadPool\\ThreadPool\\threadpool.h",
+              "RelativeToolTip": "ThreadPool\\threadpool.h",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAlwK0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-20T07:57:54.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\u7EBF\u7A0B\u6C60\u9879\u76EE.cpp",
+              "DocumentMoniker": "E:\\VSfile\\ThreadPool\\ThreadPool\\\u7EBF\u7A0B\u6C60\u9879\u76EE.cpp",
+              "RelativeDocumentMoniker": "ThreadPool\\\u7EBF\u7A0B\u6C60\u9879\u76EE.cpp",
+              "ToolTip": "E:\\VSfile\\ThreadPool\\ThreadPool\\\u7EBF\u7A0B\u6C60\u9879\u76EE.cpp",
+              "RelativeToolTip": "ThreadPool\\\u7EBF\u7A0B\u6C60\u9879\u76EE.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T07:14:23.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "threadpool.cpp",
+              "DocumentMoniker": "E:\\VSfile\\ThreadPool\\ThreadPool\\threadpool.cpp",
+              "RelativeDocumentMoniker": "ThreadPool\\threadpool.cpp",
+              "ToolTip": "E:\\VSfile\\ThreadPool\\ThreadPool\\threadpool.cpp",
+              "RelativeToolTip": "ThreadPool\\threadpool.cpp",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAlwK0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T07:14:02.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "threadpool.h",
+              "DocumentMoniker": "F:\\\u8D44\u6599\\\u65BD\u78CA\\\u65BD\u78CAc\u002B\u002B\\\u3010\u9AD8\u7EA7\u3011\u624B\u5199\u7EBF\u7A0B\u6C60\u9879\u76EE-\u7ECF\u5178\u6B7B\u9501\u95EE\u9898\u5206\u6790-\u7B80\u5386\u9879\u76EE\u8F93\u51FA\u6307\u5BFC\\\u7EBF\u7A0B\u6C60\u9879\u76EE\u8D44\u6599\\\u7EBF\u7A0B\u6C60\u9879\u76EE\u4EE3\u7801\\\u7EBF\u7A0B\u6C60\u9879\u76EE\\\u7EBF\u7A0B\u6C60\u9879\u76EE-\u6700\u7EC8\u7248\\threadpool.h",
+              "ToolTip": "F:\\\u8D44\u6599\\\u65BD\u78CA\\\u65BD\u78CAc\u002B\u002B\\\u3010\u9AD8\u7EA7\u3011\u624B\u5199\u7EBF\u7A0B\u6C60\u9879\u76EE-\u7ECF\u5178\u6B7B\u9501\u95EE\u9898\u5206\u6790-\u7B80\u5386\u9879\u76EE\u8F93\u51FA\u6307\u5BFC\\\u7EBF\u7A0B\u6C60\u9879\u76EE\u8D44\u6599\\\u7EBF\u7A0B\u6C60\u9879\u76EE\u4EE3\u7801\\\u7EBF\u7A0B\u6C60\u9879\u76EE\\\u7EBF\u7A0B\u6C60\u9879\u76EE-\u6700\u7EC8\u7248\\threadpool.h",
+              "ViewState": "AQIAABcCAAAAAAAAAAAYwCUCAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-05T08:50:23.265Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u7EBF\u7A0B\u6C60-\u6700\u7EC8\u7248.cpp",
+              "DocumentMoniker": "E:\\VSfile\\ThreadPool\\ThreadPool_final\\\u7EBF\u7A0B\u6C60-\u6700\u7EC8\u7248.cpp",
+              "RelativeDocumentMoniker": "ThreadPool_final\\\u7EBF\u7A0B\u6C60-\u6700\u7EC8\u7248.cpp",
+              "ToolTip": "E:\\VSfile\\ThreadPool\\ThreadPool_final\\\u7EBF\u7A0B\u6C60-\u6700\u7EC8\u7248.cpp",
+              "RelativeToolTip": "ThreadPool_final\\\u7EBF\u7A0B\u6C60-\u6700\u7EC8\u7248.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-05T01:44:26.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "threadpool.h",
+              "DocumentMoniker": "E:\\VSfile\\ThreadPool\\ThreadPool_final\\threadpool.h",
+              "RelativeDocumentMoniker": "ThreadPool_final\\threadpool.h",
+              "ToolTip": "E:\\VSfile\\ThreadPool\\ThreadPool_final\\threadpool.h",
+              "RelativeToolTip": "ThreadPool_final\\threadpool.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-05T01:43:52.105Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
